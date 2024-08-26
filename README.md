@@ -63,5 +63,3 @@ To start the application locally:
    This will create a production-ready build in the dist directory.
    ```bash
    npm run build
-
-
