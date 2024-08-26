@@ -28,7 +28,7 @@ The Avo Website project provides a modern, flexible web design with the followin
 - **Responsive Layouts**: Maintains layout integrity across small, medium, and large screens without altering large screen designs.
 - **Navigation**: Features a responsive navbar with dropdown menus and a menu toggle button for mobile views.
 - **Dynamic Content Handling**: Uses props for dynamic content updates and media management.
-- **Image and Video Integration**: Integrates image sliders and video components, ensuring responsiveness and visual appeal.
+- **Image Integration**: Integrates image sliders ensuring responsiveness and visual appeal.
 
 ## Installation Instructions
 
@@ -63,7 +63,5 @@ To start the application locally:
    This will create a production-ready build in the dist directory.
    ```bash
    npm run build
-
-
 
 
