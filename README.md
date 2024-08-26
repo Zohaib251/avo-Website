@@ -45,6 +45,7 @@ To set up the Avo Website locally, follow these steps:
    cd avo-Website
 
 3. **Install Dependencies**
+u
    Make sure you have Node.js installed. Then run:
    ```bash
    npm install
